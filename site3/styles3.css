@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-repeat: ;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Dancing Script' , sans-serif;
+}
+
+header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(galerie3.img/banière.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    color: #F2E6D8;
+}
+
+header .container-fluid a{
+    color: #F2E6D8;
+}
+
